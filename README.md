@@ -17,14 +17,12 @@ Think of metadata as invisible info stored inside your image files - like the re
 
 ## Installation (Step-by-Step)
 
-### For Complete Beginners:
-
 1. **Find your Forge folder**: `stable-diffusion-webui-forge` on your computer
 
 2. **Navigate to extensions**: Inside that folder, find & open the `extensions` folder
 
 3. **Download this extension**: 
-   - **Easy way**: Download as ZIP from [release page](), extract it, & put the folder in `extensions`
+   - **Easy way**: Download the .zip or .7z from [release page](https://github.com/MackinationsAi/sd-forge-metadata-editor/releases/tag/sd-forge-metadata-editor_v0.0.1), extract it, & put the folder in `extensions`
    - **Git way** (if you have Git installed): Open command prompt/terminal in the extensions folder & run:
      ```
      git clone https://github.com/MackinationsAi/sd-forge-metadata-editor.git
