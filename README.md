@@ -1,6 +1,6 @@
 # Image Metadata Editor Forge
 
-A simple & user-friendly extension for Stable Diffusion WebUI Forge that lets you view, edit, add & manage metadata in your AI-generated images.
+A simple & user-friendly extension for Stable Diffusion WebUI Forge that lets you view, edit, add & manage metadata in your Ai-generated or real images.
 
 ## Features
 
