@@ -7,13 +7,13 @@ A simple & user-friendly extension for Stable Diffusion WebUI Forge that lets yo
 ![Image Metadata Editor in Forge](assets/ui.png)
 
 This extension helps you:
-- **View metadata** stored inside your AI-generated images (like prompts, settings, etc.)
+- **View metadata** stored inside your Ai-generated images (like prompts, settings, etc.)
 - **Edit existing metadata** or add new info to images
 - **Save images** w/ updated metadata
 - **Remove all metadata** from images if needed
 - **Add custom info** like artist name, notes, or categories
 
-Think of metadata as invisible info stored inside your image files - like the recipe used to create the AI image.
+Think of metadata as invisible info stored inside your image files - like the recipe used to create the Ai image.
 
 ## Installation (Step-by-Step)
 
@@ -118,7 +118,7 @@ In the "Custom Fields" tab:
 
 ## FAQ
 
-**Q: Will this work w/ images from other AI tools?**
+**Q: Will this work w/ images from other Ai tools?**
 A: Yes, if they save metadata in standard formats. You can also add metadata to any image.
 
 **Q: Can I use this to organize my image collection?**
